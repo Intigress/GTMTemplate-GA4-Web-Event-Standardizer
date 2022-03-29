@@ -1,0 +1,5 @@
+homepage: "https://intigress.com/"
+documentation: "https://github.com/acgorecki/GTMTemplate-GA4-Web-Event-Standardizer"
+versions:
+  - sha: da09b3c65d1dc985fdb304f260b277e22cd9343c
+    changeNotes: Initial release.
