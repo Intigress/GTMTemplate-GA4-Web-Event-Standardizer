@@ -1,0 +1,1 @@
+# GTMTemplate-GA4-Web-Event-Standardizer
